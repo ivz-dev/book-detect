@@ -8,3 +8,5 @@ This script detects books in the photo.
 
 ### After
 ![](https://raw.githubusercontent.com/ivz-dev/book-detect/master/images/output.jpg)
+
+```4 books on this photo```

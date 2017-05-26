@@ -3,10 +3,10 @@ This script detects books in the photo.
 * OpenCv lib
 * numpy
 
-### Before
+### Input
 ![](https://raw.githubusercontent.com/ivz-dev/book-detect/master/images/example.jpg)
 
-### After
+### Output
 ![](https://raw.githubusercontent.com/ivz-dev/book-detect/master/images/output.jpg)
 
 ```4 books on this photo```

@@ -1,6 +1,5 @@
 # book-detect
-This script detects books in the photo.
-Use: 
+This script detects books in the photo. 
 * OpenCv lib
 * numpy
 
